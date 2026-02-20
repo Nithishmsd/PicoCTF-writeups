@@ -1,0 +1,11 @@
+                                                                                                                   
+┌──(nithish㉿kali)-[~/Downloads]
+└─$ chmod +x "run(1)"
+                                                                                                                      
+┌──(nithish㉿kali)-[~/Downloads]
+└─$ ./run(1)  
+zsh: unknown file attribute: 1
+                                                                                                                      
+┌──(nithish㉿kali)-[~/Downloads]
+└─$ ./"run(1)"
+The flag is: picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}                                                                                                                      
